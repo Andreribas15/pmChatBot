@@ -2,5 +2,6 @@
     "START": "Olá, você pode enviar uma mensagem ao André Ribas",
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
-    "SENDER": "*Sender:*"
+    "SENDER": "*Sender:*",
+    "DEV": "❖ Developed by: @Andre_Ribas\n❖ Dev Site: https://www.andreribas.tk/\n❖ Source Code: http://andreribasbot.code.andreribas.tk/"
 }
