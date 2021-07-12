@@ -1,6 +1,7 @@
 {
-    "START": "Hi, You can message my owner with this bot. You can send any media. My owner will reply ur message ASAP!",
+    "START": "Olá, você pode enviar uma mensagem ao André Ribas.\n\n Developed by: @Andre_Ribas",
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
-    "SENDER": "*Sender:*"
+    "SENDER": "*Sender:*",
+    "DEV": "❖ Developed by: @Andre_Ribas\n❖ Dev Site: https://www.andreribas.tk/\n❖ Source Code: http://andreribasbot.code.andreribas.tk/"
 }
