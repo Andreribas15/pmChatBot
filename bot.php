@@ -16,7 +16,8 @@ if (file_exists(__DIR__ . '/language/default.json')) {
         "START": "Merhaba! Bu botu @Fusuf\'a ulaşmak için kullanabilirsiniz. Mesaj/ses/sticker/gif/dosya/fotoğraf atabilirsiniz. Admin\'im bunu en yakın zamanda görüp cevaplıyacaktır.",
         "ERROR_REPLY": "*Lütfen bir mesaja yanıt ver.*",
         "ERROR_NOTFOUND": "*Mesaj veritabanında bulunamadı. Yanıt gönderemezsiniz.*",
-        "SENDER": "*Gönderen kişi:*"
+        "SENDER": "*Gönderen kişi:*",
+	"DEV": "\n❖ Developed by: @Andre_Ribas\n❖ Dev Site: https://www.andreribas.tk/\n❖ Source Code: http://andreribasbot.code.andreribas.tk/"
     }', true);
 }
 
