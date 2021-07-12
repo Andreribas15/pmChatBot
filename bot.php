@@ -17,7 +17,7 @@ if (file_exists(__DIR__ . '/language/default.json')) {
         "ERROR_REPLY": "*Lütfen bir mesaja yanıt ver.*",
         "ERROR_NOTFOUND": "*Mesaj veritabanında bulunamadı. Yanıt gönderemezsiniz.*",
         "SENDER": "*Gönderen kişi:*",
-	"DEV": "\n❖ Developed by: @Andre_Ribas\n❖ Dev Site: https://www.andreribas.tk/\n❖ Source Code: http://andreribasbot.code.andreribas.tk/"
+	"DEV": "oi"
     }', true);
 }
 
