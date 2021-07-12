@@ -1,5 +1,5 @@
 {
-    "START": "Olá, você pode enviar uma mensagem ao André Ribas.\n\n Developed by: @Andre_Ribas",
+    "START": "Olá, você pode enviar uma mensagem ao André Ribas",
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
     "SENDER": "*Sender:*"
