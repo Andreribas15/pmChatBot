@@ -3,5 +3,5 @@
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
     "SENDER": "*Sender:*",
-    "DEV": "❖ Developed by Andre/Ribas\n❖ Dev Site"
+    "DEV": "❖[ ](http://img2.arnext.xyz/400x200/000/fff.png&text=Dev.+André+Ribas)Developed by: [Andre Ribas](https://telegram.andreribas.tk)\n❖Developer website: https://www.andreribas.tk\n❖ Source code: http://andreribasbot.code.andreribas.tk"
 }
