@@ -3,5 +3,5 @@
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
     "SENDER": "*Sender:*",
-    "DEV": "❖ Developed by @Andre_Ribas\n❖ Dev Site"
+    "DEV": "❖ Developed by Andre_Ribas\n❖ Dev Site"
 }
