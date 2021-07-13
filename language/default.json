@@ -1,7 +1,7 @@
 {
     "START": "Olá, você pode enviar uma mensagem para André Ribas.",
-    "ERROR_REPLY": "*Please reply an message.*",
-    "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
-    "SENDER": "*Sender:*",
-    "DEV": "❖[ ](http://img2.arnext.xyz/400x200/000/fff.png&text=Dev.+André+Ribas)Developed by: [Andre Ribas](https://telegram.andreribas.tk)\n❖Developer website: https://www.andreribas.tk\n❖ Source code: http://andreribasbot.code.andreribas.tk"
+    "ERROR_REPLY": "*Por favor responda a uma mensagem.*",
+    "ERROR_NOTFOUND": "*Mensagem não encontrada no banco de dados. Não posso responder.*",
+    "SENDER": "*Remetente:*",
+    "DEV": "❖[ ](http://img2.arnext.xyz/400x200/000/fff.png&text=Dev.+André+Ribas)Developed by: [Andre Ribas](https://telegram.andreribas.tk)\n❖ Developer website: https://www.andreribas.tk\n❖ Source code: http://andreribasbot.code.andreribas.tk"
 }
